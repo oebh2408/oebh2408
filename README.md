@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm m4ze</h1>
+<h1 align="center">Hi 👋, I'm Oscar</h1>
 <h3 align="center">A Pentester in formation, programmer and Linux Enthusiast</h3>
 
 - 💬 Ask me about **pentesting**
